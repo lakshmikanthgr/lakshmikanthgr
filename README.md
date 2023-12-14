@@ -12,6 +12,12 @@ My name is Lakshmikanth and I am ML and Stock Market enthusiast.
 
 Software Engineer working for a product based company.
 
+## Languages, Tools and Frameworks known ?
+<img alt="React" src ="https://shields.io/badges/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" >
+<img alt="docker" src ="https://shields.io/badges/Docker-2496ED?logo=react&logoColor=white&style=for-the-badge" >
+<img alt="React" src ="https://img.shields.io/badge/any_text-you_like-blue" >
+
+
 ## What Interests me ?
 
 ### Machine Learning
